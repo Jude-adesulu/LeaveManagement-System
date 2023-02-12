@@ -1,0 +1,11 @@
+.DS_Store
+src/.DS_Store
+.vscode
+.vs
+.DS_Store
+.DS_Store
+doc/db.zip
+src/.DS_Store
+*.json
+**/bin
+**/obj
